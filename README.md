@@ -15,8 +15,9 @@ Work flow
 
 1. Use file in "dtf_evaluation"
    
-(1)"DTF_AIC.mlx" to calculate the best order of subjects
-(2)"DTFSeizureDetection.mlx" to calculate DTFs and saved to "Seizure_detection_DTF_graph"
+"DTF_AIC.mlx" to calculate the best order of subjects
+
+"DTFSeizureDetection.mlx" to calculate DTFs and saved to "Seizure_detection_DTF_graph"
 
 3. Use file in "validation_model" to verify the hyperparameter settings
 
