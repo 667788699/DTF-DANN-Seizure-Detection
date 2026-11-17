@@ -19,6 +19,6 @@ Work flow
 
 "DTFSeizureDetection.mlx" to calculate DTFs and saved to "Seizure_detection_DTF_graph"
 
-3. Use file in "validation_model" to verify the hyperparameter settings
+2. Use file in "validation_model" to verify the hyperparameter settings
 
-4. Use file in "test_model" to train test model and save results to specific file direction 
+3. Use file in "test_model" to train test model and save results to specific file direction 
