@@ -1,7 +1,9 @@
 **--------------------------------------------**
+
 Repository Structure
 
 Code/
+
 |--- dtf_evaluation    			# Calculate AIC order and save DTF to "Seizure_detection_DTF_graph"
 |--- validation_model			# Training on validation data
 |--- test_model				# Training on test data
